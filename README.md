@@ -1,2 +1,0 @@
-# myresume
-find my resume
